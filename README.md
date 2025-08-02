@@ -1,60 +1,67 @@
-# 👋 Hello! I'm yiyuhang
+<div align="center">
 
-🎓 Economics & Finance @ Zhongnan University of Economics and Law (ZUEL)  
-🎯 Class of 2027 | Aspiring FinTech & Big Data Researcher  
-🌏 Targeting MSc/PhD in Hong Kong 🇭🇰 | UK 🇬🇧 | USA 🇺🇸
+# 👋 Hi, I'm Yiyuhang  
+🎓 Economics & Finance @ Zhongnan University of Economics and Law (ZUEL), Class of 2027  
+💡 FinTech | Big Data | Data Analytics  
+🌏 Aspiring Master's student targeting 🇭🇰 Hong Kong | 🇬🇧 UK | 🇺🇸 USA
 
----
+*"Blending code, capital, and curiosity to explore the data-driven world."*
 
-## 💡 About Me
+[![Visitors](https://komarev.com/ghpvc/?username=yiyuhang&color=blue&style=flat&label=VISITORS)](https://github.com/yiyuhang)
 
-I'm a student who blends **finance and technology**, building a bridge between **economics** and **data science**.  
-Currently exploring the intersection of **FinTech**, **Big Data**, and **Quantitative Research**.
-
-> “From financial models to machine learning — all with a dash of curiosity and caffeine.”
+</div>
 
 ---
 
-## 🧰 Tech Stack
+## 🧑‍💻 Tech Stack
+<div align="center">
 
-- 🐍 Python — my go-to for data analysis & automation  
-- 📊 R — for all things stats and pretty plots  
-- 💾 SQL — because good data starts with good queries
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 
----
-
-## 🧠 Interests
-
-- 💸 Financial Technology & Quantitative Modeling  
-- 📈 Data Visualization & Analytics  
-- 🧠 Machine Learning for Finance  
-- 🔍 Research-driven data storytelling
+</div>
 
 ---
 
-## 📁 Featured Projects
+## 📈 GitHub Stats
+<div align="center">
 
-🔹 [**Python for Data Visualization and Analysis**](https://github.com/yiyuhang/Python-for-Data-Visualization-and-Analysis)  
-Exploring datasets with pandas, matplotlib, and a curious mindset.
+![Yiyuhang's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yiyuhang&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
-📦 More academic and research-driven projects coming soon (after finals 😅)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yiyuhang&layout=compact&theme=tokyonight&hide_border=true)
 
----
-
-## 🎯 Goals
-
-- 📚 Pursue a Master's degree in **FinTech**, **Data Science**, or **AI in Finance**  
-- 🤖 Build tools that turn complex financial data into actionable insights  
-- 🗣️ Collaborate on global academic and open-source research
+</div>
 
 ---
 
-## 📬 Let's Connect
+## 🙋 About Me
 
-Feel free to check out my work and drop a ⭐ if something sparks your interest!
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/yiyuhang)
+- 📘 Undergraduate in Economics & Finance  
+- 🔎 Interested in FinTech, data analytics, and how technology transforms financial systems  
+- 🌱 Learning more about data science, machine learning, and programming  
+- 🎯 Preparing for graduate studies in FinTech / Data Science
 
 ---
 
-> “In God we trust. All others must bring data.” – W. Edwards Deming
+## ⚽ Interests
+
+- ⚽ Football (Huge fan of **Messi**)  
+- 🏀 Basketball (Inspired by **Kobe Bryant's Mamba Mentality**)  
+- 🏋️ Fitness & strength training  
+- 🎧 Music, documentaries, and coffee ☕ when taking breaks from code
+
+---
+
+## 📫 Contact
+
+- 📧 Email: **yiyuhang0103@gmail.com**  
+- 🌐 GitHub: [@yiyuhang](https://github.com/yiyuhang)
+
+---
+
+> *“Discipline creates freedom, and passion drives progress.”*
