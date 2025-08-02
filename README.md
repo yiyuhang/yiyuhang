@@ -5,7 +5,6 @@
 💡 FinTech | Big Data | Data Analytics  
 🌏 Aspiring Master's student targeting 🇭🇰 Hong Kong | 🇬🇧 UK | 🇺🇸 USA
 
-*"Blending code, capital, and curiosity to explore the data-driven world."*
 
 [![Visitors](https://komarev.com/ghpvc/?username=yiyuhang&color=blue&style=flat&label=VISITORS)](https://github.com/yiyuhang)
 
@@ -19,8 +18,6 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 
