@@ -50,7 +50,7 @@
 - ⚽ Football (Huge fan of **Messi**)  
 - 🏀 Basketball (Inspired by **Kobe Bryant's Mamba Mentality**)  
 - 🏋️ Fitness & strength training  
-- 🎧 Music, documentaries, and coffee ☕ when taking breaks from code
+- 🎧 Music (especially rap), and coffee ☕ when taking breaks from code
 
 ---
 
