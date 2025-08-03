@@ -61,4 +61,4 @@
 
 ---
 
-> *“Discipline creates freedom, and passion drives progress.”*
+> *“MAKE A DENT IN THE UNIVERSE”*
